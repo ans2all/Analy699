@@ -1,4 +1,4 @@
-# Is there indeed a shortage of skilled workforce?
+# Is there indeed a shortage of skilled workforce in the U.S?
 
 There are two contradictory opinions on the topic of skilled workforce shortage in the U.S. This
 is intriguing particularly considering the current political scenario on the U.S employment. This
