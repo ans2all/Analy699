@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ans2all/Analy699/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ans2all/Analy699/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+There are two contradictory opinions on the topic of skilled workforce shortage in the U.S. This
+is intriguing particularly considering the current political scenario on the U.S employment. This
+paper analyses the national historical data to answer the question – is there indeed a serious
+skilled workforce shortage in the U.S? This paper looks at the trend in the arena of
+unemployment rates across industries and education levels over the last decade. Also, wage data
+is analyzed to give some insight on this topic. It is important to consider the recent years to pre2008
+recession years to make inferences on this topic. Based on author’s analysis, as mentioned
+in this report, there are not a lot of strong evidences to suggest that the U.S is facing a severe
+skilled workforce shortage. 
